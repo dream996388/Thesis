@@ -338,7 +338,7 @@ if __name__ == '__main__':
     app = QtWidgets.QApplication(sys.argv)
     QtGui.QFontDatabase.addApplicationFont('fonts/segoeui.ttf')
     QtGui.QFontDatabase.addApplicationFont('fonts/segoeuib.ttf')
-    YODA_sys = AOI_sys()
+    AOI_SYS = AOI_sys()
     sys.exit(app.exec_())
 
 
