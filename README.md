@@ -46,8 +46,6 @@ AOI project:檢測面板上是否殘留水珠<p>
 <figure>
 
 <p float='left'>
-  <img src="./imgs/before.png"  height = "50%" />
-  <img src="./imgs/after.png"  height = "50%" />
 </p>
 
 <figcaption align = "center"><b>之前之後拍攝比較</b></figcaption>
